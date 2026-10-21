@@ -8,7 +8,7 @@ Participation in FoxyHack 2026: the hackathon supporting digital sovereignty
 - *Feb 8 - 10, 2026: on-site hackathon in Evreux*
 
 ## Teams 
-- [Thox](https://github.com/DIGIX66) : Théo Dubois - Dev Fullstack, Blockchain
+- [Thox](https://github.com/Digix66) : Théo Dubois - Dev Fullstack, Blockchain
 - [Simon](https://github.com/SLecureu) : Simon Lecureux - Dev Fullstack 
 
 ## Vision
